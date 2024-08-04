@@ -3,36 +3,35 @@ primary_name: "Liyuan Ma"
 # navbar_name: "Your Name"
 
 positions:
-- name: Research Associate
+- name: Research Assistant
 - logo: /assets/images/badges/westlake.jpeg
-  name: B.S., Westlake University (Now)
+  name: Westlake University (Now)
 
 email: "maliyuan@westlake.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: j6T8Tk8AAAAJ
 # github: your_github_id
 # twitter: your_twitter_id
-wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  I am a research assistant in Guojun Qi's lab at Westlake University.
+  My research interest includes image&&video editing and generation, multimodal generative models.
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/mly.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Southwest Jiaotong University
   logo: /assets/images/badges/swjtu.png
   position: B.S. in Electronic Information Engineering
   # date: Sep. 2017 - Jul. 2021
-- name: Zhejiang University
+- name: Zhejiang University (2018-2023)
   logo: /assets/images/badges/zju.jpg
   position: Ph.D. in Electronic Science and Technology
 
